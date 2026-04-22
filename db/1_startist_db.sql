@@ -23,7 +23,7 @@ CREATE TABLE tecnica (
 CREATE TABLE tarjeta (
     id_tarjeta  SERIAL          PRIMARY KEY,
     titulo      VARCHAR(255)    NOT NULL,
-    descripcion VARCHAR(255),
+    descripcion TEXT,
     tecnica_id  INTEGER         NOT NULL REFERENCES tecnica(id_tecnica) ON DELETE CASCADE,
     estado      BOOLEAN         NOT NULL DEFAULT TRUE
 );

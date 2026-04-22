@@ -39,7 +39,7 @@ INSERT INTO tarjeta (titulo, descripcion, tecnica_id) VALUES
  'Practica líneas rectas, curvas y cruzadas variando la presión del lápiz. Empieza con trazos suaves y aumenta gradualmente la intensidad. Evita raspar el papel. Ejercicio: llena una hoja solo con líneas paralelas manteniendo la misma separación.', 1),
 
 ('Sombreado y volumen',
- 'Integra trazos, sombreado y control de presión en un dibujo completo. Define una fuente de luz y construye volumen desde formas básicas. Error común: enfocarse en detalles sin estructura. Ejercicio: realiza un dibujo realista de un objeto cotidiano (por ejemplo, una taza) aplicando luces, sombras y texturas.', 1),
+ 'Integra trazos, sombreado y control de presión en un dibujo completo. Define una fuente de luz y construye volumen desde formas básicas. Error común: enfocarse en detalles sin estructura. Ejercicio: dibuja una taza aplicando luces, sombras y texturas.', 1),
 
 
 -- Carboncillo
